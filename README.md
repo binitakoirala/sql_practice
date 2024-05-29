@@ -9,3 +9,4 @@
 | 3    | Find all athletes who participated in the 1992 Summer Olympics. | [Solution 3](/easy/solution_3.sql) |
 | 4    | List all athletes who won a gold medal.                         | [Solution 4](/easy/solution_4.sql) |
 | 5    | Select distinct sports from the dataset.                        | [Solution 5](/easy/solution_5.sql) |
+| 6    | Find all athletes who are from China.                           | [Solution 6](/easy/solution_6.sql) |
