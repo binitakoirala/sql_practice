@@ -12,3 +12,4 @@
 | 6    | Find all athletes who are from China.                           | [Solution 6](/easy/solution_6.sql) |
 | 7    | List all female athletes.                                       | [Solution 7](/easy/solution_7.sql) |
 | 8    | Select athletes who participated in the Winter Olympics.        | [Solution 8](/easy/solution_8.sql) |
+| 9    | Find the youngest athlete in the dataset.                       | [Solution 9](/easy/solution_9.sql) |
