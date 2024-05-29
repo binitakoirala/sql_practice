@@ -18,3 +18,4 @@
 | 12   | Find tallest athlete                                            | [Solution 12](/easy/solution_12.sql) |
 | 13   | List all events that took place in Barcelona.                   | [Solution 13](/easy/solution_13.sql) |
 | 14   | Find all athletes who participated in the 1988 Winter Olympics. | [Solution 14](/easy/solution_14.sql) |
+| 15   | List all athletes who are 27 years old and above.               | [Solution 15](/easy/solution_15.sql) |
