@@ -15,3 +15,4 @@
 | 9    | Find the youngest athlete in the dataset.                       | [Solution 9](/easy/solution_9.sql)   |
 | 10   | Count the number of athletes in the dataset.                    | [Solution 10](/easy/solution_10.sql) |
 | 11   | List all athletes who are 24 years old.                         | [Solution 11](/easy/solution_11.sql) |
+| 12   | Find tallest athlete                                            | [Solution 12](/easy/solution_12.sql) |
