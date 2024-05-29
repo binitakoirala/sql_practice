@@ -16,3 +16,4 @@
 | 10   | Count the number of athletes in the dataset.                    | [Solution 10](/easy/solution_10.sql) |
 | 11   | List all athletes who are 24 years old.                         | [Solution 11](/easy/solution_11.sql) |
 | 12   | Find tallest athlete                                            | [Solution 12](/easy/solution_12.sql) |
+| 13   | List all events that took place in Barcelona.                   | [Solution 13](/easy/solution_13.sql) |
