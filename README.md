@@ -22,3 +22,4 @@
 | 16   | Find all athletes who are taller than 180 cm.                   | [Solution 16](/easy/solution%20_16.sql) |
 | 17   | Select athletes who participated in Tug-Of-War.                 | [Solution 17](/easy/solution_17.sql)    |
 | 18   | Find all athletes who participated in both 1992 and 1994.       | [Solution 18](/easy/solution_18.sql)    |
+| 19   | List all athletes who did not win a medal.                      | [Solution 19](/easy/solution_19.sql)    |
