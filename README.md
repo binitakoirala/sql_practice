@@ -21,3 +21,4 @@
 | 15   | List all athletes who are 27 years old and above.               | [Solution 15](/easy/solution_15.sql)    |
 | 16   | Find all athletes who are taller than 180 cm.                   | [Solution 16](/easy/solution%20_16.sql) |
 | 17   | Select athletes who participated in Tug-Of-War.                 | [Solution 17](/easy/solution_17.sql)    |
+| 18   | Find all athletes who participated in both 1992 and 1994.       | [Solution 18](/easy/solution_18.sql)    |
