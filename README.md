@@ -10,3 +10,4 @@
 | 4    | List all athletes who won a gold medal.                         | [Solution 4](/easy/solution_4.sql) |
 | 5    | Select distinct sports from the dataset.                        | [Solution 5](/easy/solution_5.sql) |
 | 6    | Find all athletes who are from China.                           | [Solution 6](/easy/solution_6.sql) |
+| 7    | List all female athletes.                                       | [Solution 7](/easy/solution_7.sql) |
