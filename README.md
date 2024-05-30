@@ -37,3 +37,4 @@
 | 1    | Find the average height of all athletes.                    | [Solution 1](/intermediate/solution_1.sql) |
 | 2    | Calculate the total number of medals won by Denmark/Sweden. | [Solution 2](/intermediate/solution_2.sql) |
 | 3    | List the number of athletes per country.                    | [Solution 3](/intermediate/solution_3.sql) |
+| 4    | Find the most common sport in the dataset.                  | [Solution 4](/intermediate/solution_4.sql) |
