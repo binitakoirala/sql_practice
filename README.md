@@ -32,6 +32,7 @@
 
 # Intermediate SQL Challenges
 
-| S.N. | Challenge                                | Solution                                   |
-| ---- | ---------------------------------------- | ------------------------------------------ |
-| 1    | Find the average height of all athletes. | [Solution 1](/intermediate/solution_1.sql) |
+| S.N. | Challenge                                                   | Solution                                   |
+| ---- | ----------------------------------------------------------- | ------------------------------------------ |
+| 1    | Find the average height of all athletes.                    | [Solution 1](/intermediate/solution_1.sql) |
+| 2    | Calculate the total number of medals won by Denmark/Sweden. | [Solution 2](/intermediate/solution_2.sql) |
