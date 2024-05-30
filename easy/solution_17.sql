@@ -4,4 +4,4 @@ SELECT
     DISTINCT name 
 FROM public.olympics_history
 WHERE 
-    sport = 'Tug-Of-War'
+    sport = 'Tug-Of-War';
