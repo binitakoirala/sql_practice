@@ -29,3 +29,9 @@
 | 23   | List all athletes who are from the United States.                                       | [Solution 23](/easy/solution_23.sql)    |
 | 24   | Select athletes who are older than 30 years.                                            | [Solution 24](/easy/solution_24.sql)    |
 | 25   | Find all athletes who participated in Judo.                                             | [Solution 25](/easy/solution_25.sql)    |
+
+# Intermediate SQL Challenges
+
+| S.N. | Challenge                                | Solution                                   |
+| ---- | ---------------------------------------- | ------------------------------------------ |
+| 1    | Find the average height of all athletes. | [Solution 1](/intermediate/solution_1.sql) |
