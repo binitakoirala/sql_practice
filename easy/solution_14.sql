@@ -4,4 +4,4 @@ SELECT
     DISTINCT name 
 FROM public.olympics_history
 WHERE 
-    year = 1988 AND season = 'Winter'
+    year = 1988 AND season = 'Winter';
