@@ -1,5 +1,5 @@
 -- 
--- 
+-- Find the athlete with the highest weight.
 WITH ranked_olympics AS (
   SELECT DISTINCT name, weight,
          RANK() OVER (ORDER BY CAST(weight AS DECIMAL) DESC) AS rank
