@@ -3,6 +3,4 @@
 SELECT 
     DISTINCT name 
 FROM public.olympics_history
-WHERE
-    year = 1992 AND
-    season = 'Summer';
+WHERE year = 1992 AND season = 'Summer';

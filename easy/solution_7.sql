@@ -3,5 +3,4 @@
 SELECT 
     DISTINCT name 
 FROM public.olympics_history
-WHERE
-    sex = 'F';
+WHERE sex = 'F';

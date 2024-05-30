@@ -3,5 +3,4 @@
 SELECT 
     DISTINCT event
 FROM public.olympics_history
-WHERE 
-    city = 'Barcelona';
+WHERE city = 'Barcelona';

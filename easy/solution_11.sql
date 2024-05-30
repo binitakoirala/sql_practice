@@ -3,5 +3,4 @@
 SELECT 
     DISTINCT name 
 FROM public.olympics_history
-WHERE 
-    age = '24';
+WHERE age = '24';
