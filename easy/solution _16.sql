@@ -4,4 +4,4 @@ SELECT
     DISTINCT name
 FROM public.olympics_history
 WHERE 
-    height > '180' AND height != 'NA' AND height IS NOT NULL
+    height > '180' AND height != 'NA' AND height IS NOT NULL;
