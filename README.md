@@ -25,3 +25,4 @@
 | 19   | List all athletes who did not win a medal.                                              | [Solution 19](/easy/solution_19.sql)    |
 | 20   | Select athletes who participated in the Cross Country Skiing Men's 10 kilometres event. | [Solution 20](/easy/solution_20.sql)    |
 | 21   | List all unique teams in the dataset.                                                   | [Solution 21](/easy/solution_21.sql)    |
+| 22   | Find all athletes who weigh more than 75 kg.                                            | [Solution 22](/easy/solution_22.sql)    |
