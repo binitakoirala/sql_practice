@@ -4,4 +4,4 @@ SELECT
     DISTINCT name
 FROM public.olympics_history
 WHERE
-    medal = 'NA'
+    medal = 'NA';
