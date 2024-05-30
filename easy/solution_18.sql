@@ -8,4 +8,4 @@ INTERSECT
 SELECT 
     DISTINCT name FROM public.olympics_history
 WHERE 
-    year = 1994
+    year = 1994;
