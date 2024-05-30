@@ -41,3 +41,4 @@
 | 5    | List the athletes who have participated in more than one event.           | [Solution 5](/intermediate/solution_5.sql) |
 | 6    | Find the number of athletes who participated in the 1992 Winter Olympics. | [Solution 6](/intermediate/solution_6.sql) |
 | 7    | Find the athlete with the highest weight.                                 | [Solution 7](/intermediate/solution_7.sql) |
+| 8    | Calculate the average weight of athletes from the United States.          | [Solution 8](/intermediate/solution_8.sql) |
