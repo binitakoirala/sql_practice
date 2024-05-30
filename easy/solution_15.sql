@@ -4,4 +4,4 @@ SELECT
     DISTINCT name 
 FROM public.olympics_history
 WHERE 
-    age >= '27' AND age != 'NA'
+    age >= '27' AND age != 'NA';
