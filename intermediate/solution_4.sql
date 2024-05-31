@@ -1,9 +1,15 @@
 -- 
 -- Find the most common sport in the dataset.
+WITH ranked_sport AS (
+    SELECT 
+        sport,
+        COUNT(sport) AS count,
+        RANK() OVER (ORDER BY COUNT(sport) DESC) AS rank
+    FROM public.olympics_history
+    GROUP BY sport
+)
 SELECT 
     sport,
-    COUNT(sport) AS count
-FROM public.olympics_history
-GROUP BY sport
-ORDER BY count DESC
-LIMIT 1;
+    count
+FROM ranked_sport
+WHERE rank = 1;
