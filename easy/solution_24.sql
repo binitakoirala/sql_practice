@@ -3,4 +3,4 @@
 SELECT 
     DISTINCT name
 FROM public.olympics_history
-WHERE age > '30' AND age != 'NA';
+WHERE age::numeric > 30 AND age != 'NA';
