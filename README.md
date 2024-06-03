@@ -44,3 +44,4 @@
 | 8    | Calculate the average weight of athletes from the United States.          | [Solution 8](/intermediate/solution_8.sql)   |
 | 9    | Find all athletes who are younger than the average age.                   | [Solution 9](/intermediate/solution_9.sql)   |
 | 10   | List athletes who have participated in multiple Olympics.                 | [Solution 10](/intermediate/solution_10.sql) |
+| 11   | Count the number of male and female athletes.                             | [Solution 11](/intermediate/solution_11.sql) |
