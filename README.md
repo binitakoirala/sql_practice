@@ -32,18 +32,19 @@
 
 # Intermediate SQL Challenges
 
-| S.N. | Challenge                                                                 | Solution                                     |
-| ---- | ------------------------------------------------------------------------- | -------------------------------------------- |
-| 1    | Find the average height of all athletes.                                  | [Solution 1](/intermediate/solution_1.sql)   |
-| 2    | Calculate the total number of medals won by Denmark/Sweden.               | [Solution 2](/intermediate/solution_2.sql)   |
-| 3    | List the number of athletes per country.                                  | [Solution 3](/intermediate/solution_3.sql)   |
-| 4    | Find the most common sport in the dataset.                                | [Solution 4](/intermediate/solution_4.sql)   |
-| 5    | List the athletes who have participated in more than one event.           | [Solution 5](/intermediate/solution_5.sql)   |
-| 6    | Find the number of athletes who participated in the 1992 Winter Olympics. | [Solution 6](/intermediate/solution_6.sql)   |
-| 7    | Find the athlete with the highest weight.                                 | [Solution 7](/intermediate/solution_7.sql)   |
-| 8    | Calculate the average weight of athletes from the United States.          | [Solution 8](/intermediate/solution_8.sql)   |
-| 9    | Find all athletes who are younger than the average age.                   | [Solution 9](/intermediate/solution_9.sql)   |
-| 10   | List athletes who have participated in multiple Olympics.                 | [Solution 10](/intermediate/solution_10.sql) |
-| 11   | Count the number of male and female athletes.                             | [Solution 11](/intermediate/solution_11.sql) |
-| 12   | Find the athlete who participated in the most recent Olympics.            | [Solution 12](/intermediate/solution_12.sql) |
-| 13 | List all athletes sorted by their height in descending order. | [Solution 13](/intermediate/solution_13.sql) |
+| S.N. | Challenge                                                                        | Solution                                     |
+| ---- | -------------------------------------------------------------------------------- | -------------------------------------------- |
+| 1    | Find the average height of all athletes.                                         | [Solution 1](/intermediate/solution_1.sql)   |
+| 2    | Calculate the total number of medals won by Denmark/Sweden.                      | [Solution 2](/intermediate/solution_2.sql)   |
+| 3    | List the number of athletes per country.                                         | [Solution 3](/intermediate/solution_3.sql)   |
+| 4    | Find the most common sport in the dataset.                                       | [Solution 4](/intermediate/solution_4.sql)   |
+| 5    | List the athletes who have participated in more than one event.                  | [Solution 5](/intermediate/solution_5.sql)   |
+| 6    | Find the number of athletes who participated in the 1992 Winter Olympics.        | [Solution 6](/intermediate/solution_6.sql)   |
+| 7    | Find the athlete with the highest weight.                                        | [Solution 7](/intermediate/solution_7.sql)   |
+| 8    | Calculate the average weight of athletes from the United States.                 | [Solution 8](/intermediate/solution_8.sql)   |
+| 9    | Find all athletes who are younger than the average age.                          | [Solution 9](/intermediate/solution_9.sql)   |
+| 10   | List athletes who have participated in multiple Olympics.                        | [Solution 10](/intermediate/solution_10.sql) |
+| 11   | Count the number of male and female athletes.                                    | [Solution 11](/intermediate/solution_11.sql) |
+| 12   | Find the athlete who participated in the most recent Olympics.                   | [Solution 12](/intermediate/solution_12.sql) |
+| 13   | List all athletes sorted by their height in descending order.                    | [Solution 13](/intermediate/solution_13.sql) |
+| 14   | Find the number of athletes who did not win a medal in the 1994 Winter Olympics. | [Solution 14](/intermediate/solution_14.sql) |
