@@ -48,3 +48,4 @@
 | 12   | Find the athlete who participated in the most recent Olympics.                   | [Solution 12](/intermediate/solution_12.sql) |
 | 13   | List all athletes sorted by their height in descending order.                    | [Solution 13](/intermediate/solution_13.sql) |
 | 14   | Find the number of athletes who did not win a medal in the 1994 Winter Olympics. | [Solution 14](/intermediate/solution_14.sql) |
+| 15   | Calculate the average age of athletes who participated in the Summer Olympics.   | [Solution 15](/intermediate/solution_15.sql) |
