@@ -50,3 +50,9 @@
 | 14   | Find the number of athletes who did not win a medal in the 1994 Winter Olympics. | [Solution 14](/intermediate/solution_14.sql) |
 | 15   | Calculate the average age of athletes who participated in the Summer Olympics.   | [Solution 15](/intermediate/solution_15.sql) |
 | 16   | Find the total number of events in which athletes from China participated.       | [Solution 16](/intermediate/solution_16.sql) |
+| 17   | List the athletes who have the same height and weight.                           | [Solution 17](/intermediate/solution_17.sql) |
+| 18   | Count the number of unique events in the dataset.                                | [Solution 18](/intermediate/solution_18.sql) |
+| 19   | Find the youngest male athlete.                                                  | [Solution 19](/intermediate/solution_19.sql) |
+| 20   | List athletes who participated in events held in Lillehammer.                    | [Solution 20](/intermediate/solution_20.sql) |
+| 21   | Find the number of gold medals won per country.                                  | [Solution 21](/intermediate/solution_21.sql) |
+| 22   | List the athletes who are taller than the average height.                        | [Solution 22](/intermediate/solution_22.sql) |
