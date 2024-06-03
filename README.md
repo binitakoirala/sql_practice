@@ -46,3 +46,4 @@
 | 10   | List athletes who have participated in multiple Olympics.                 | [Solution 10](/intermediate/solution_10.sql) |
 | 11   | Count the number of male and female athletes.                             | [Solution 11](/intermediate/solution_11.sql) |
 | 12   | Find the athlete who participated in the most recent Olympics.            | [Solution 12](/intermediate/solution_12.sql) |
+| 13 | List all athletes sorted by their height in descending order. | [Solution 13](/intermediate/solution_13.sql) |
