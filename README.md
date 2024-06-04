@@ -56,3 +56,4 @@
 | 20   | List athletes who participated in events held in Lillehammer.                    | [Solution 20](/intermediate/solution_20.sql) |
 | 21   | Find the number of gold medals won per country.                                  | [Solution 21](/intermediate/solution_21.sql) |
 | 22   | List the athletes who are taller than the average height.                        | [Solution 22](/intermediate/solution_22.sql) |
+| 23   | Find the number of events per sport.                                             | [Solution 23](/intermediate/solution_23.sql) |
