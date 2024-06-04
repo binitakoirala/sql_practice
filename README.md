@@ -57,3 +57,17 @@
 | 21   | Find the number of gold medals won per country.                                  | [Solution 21](/intermediate/solution_21.sql) |
 | 22   | List the athletes who are taller than the average height.                        | [Solution 22](/intermediate/solution_22.sql) |
 | 23   | Find the number of events per sport.                                             | [Solution 23](/intermediate/solution_23.sql) |
+| 24   | List all athletes who participated in Football.                                  | [Solution 24](/intermediate/solution_24.sql) |
+| 25   | Find the total weight of all athletes combined.                                  | [Solution 25](/intermediate/solution_25.sql) |
+
+# Advanced SQL Challenges
+
+| S.N. | Challenge                                                        | Solution                               |
+| ---- | ---------------------------------------------------------------- | -------------------------------------- |
+| 1    | Find the country with the most athletes.                         | [Solution 1](/advanced/solution_1.sql) |
+| 2    | Calculate the average age of athletes per sport.                 | [Solution 2](/advanced/solution_2.sql) |
+| 3    | List the athletes who participated in the most number of events. | [Solution 3](/advanced/solution_3.sql) |
+| 4    | Find the city that hosted the most events.                       | [Solution 4](/advanced/solution_4.sql) |
+| 5    | Calculate the total number of medals won per sport.              | [Solution 5](/advanced/solution_5.sql) |
+| 6    | List the top 5 heaviest athletes.                                | [Solution 6](/advanced/solution_6.sql) |
+| 7    | Find the average height and weight of athletes who won a medal.  | [Solution 7](/advanced/solution_7.sql) |
