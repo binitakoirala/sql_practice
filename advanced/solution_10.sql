@@ -1,9 +1,9 @@
 -- 
 -- Calculate the average number of athletes per event.
-WITH cte_athlete_count_per_event AS(
+WITH cte_athlete_count_per_event AS (
 	SELECT
 		event,
-		count(name) as athlete_count
+		COUNT(name) AS athlete_count
 	FROM public.olympics_history
 	GROUP BY event
 )
