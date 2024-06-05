@@ -62,12 +62,16 @@
 
 # Advanced SQL Challenges
 
-| S.N. | Challenge                                                        | Solution                               |
-| ---- | ---------------------------------------------------------------- | -------------------------------------- |
-| 1    | Find the country with the most athletes.                         | [Solution 1](/advanced/solution_1.sql) |
-| 2    | Calculate the average age of athletes per sport.                 | [Solution 2](/advanced/solution_2.sql) |
-| 3    | List the athletes who participated in the most number of events. | [Solution 3](/advanced/solution_3.sql) |
-| 4    | Find the city that hosted the most events.                       | [Solution 4](/advanced/solution_4.sql) |
-| 5    | Calculate the total number of medals won per sport.              | [Solution 5](/advanced/solution_5.sql) |
-| 6    | List the top 5 heaviest athletes.                                | [Solution 6](/advanced/solution_6.sql) |
-| 7    | Find the average height and weight of athletes who won a medal.  | [Solution 7](/advanced/solution_7.sql) |
+| S.N. | Challenge                                                           | Solution                                 |
+| ---- | ------------------------------------------------------------------- | ---------------------------------------- |
+| 1    | Find the country with the most athletes.                            | [Solution 1](/advanced/solution_1.sql)   |
+| 2    | Calculate the average age of athletes per sport.                    | [Solution 2](/advanced/solution_2.sql)   |
+| 3    | List the athletes who participated in the most number of events.    | [Solution 3](/advanced/solution_3.sql)   |
+| 4    | Find the city that hosted the most events.                          | [Solution 4](/advanced/solution_4.sql)   |
+| 5    | Calculate the total number of medals won per sport.                 | [Solution 5](/advanced/solution_5.sql)   |
+| 6    | List the top 5 heaviest athletes.                                   | [Solution 6](/advanced/solution_6.sql)   |
+| 7    | Find the average height and weight of athletes who won a medal.     | [Solution 7](/advanced/solution_7.sql)   |
+| 8    | List the athletes who participated in more than one Olympic season. | [Solution 8](/advanced/solution_8.sql)   |
+| 9    | Find the most common age among athletes.                            | [Solution 9](/advanced/solution_9.sql)   |
+| 10   | Calculate the average number of athletes per event.                 | [Solution 10](/advanced/solution_10.sql) |
+| 11   | Find the country with the highest average athlete height.           | [Solution 11](/advanced/solution_11.sql) |
