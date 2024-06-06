@@ -7,7 +7,7 @@ SELECT DISTINCT
     RANK() OVER (ORDER BY CAST(weight AS FLOAT) DESC) AS weight_rank_desc,
     RANK() OVER (ORDER BY CAST(weight AS FLOAT) ASC) AS weight_rank_asc
 FROM public.olympics_history
-where weight != 'NA'
+WHERE weight != 'NA'
 )
 SELECT DISTINCT
     name,
