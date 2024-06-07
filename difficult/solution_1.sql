@@ -4,7 +4,7 @@ WITH cte_highest_total_participation AS (
     SELECT
         name,
         COUNT(DISTINCT event) AS event_count,
-        RANK() OVER(ORDER BY COUNT(DISTINCT event) DESC) AS rank
+        RANK() OVER (ORDER BY COUNT(DISTINCT event) DESC) AS rank
     FROM public.olympics_history
     GROUP BY name
 )

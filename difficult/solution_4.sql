@@ -8,18 +8,10 @@
     WHERE medal = 'Gold' AND medal != 'NA'
     GROUP BY team
 ), 
-cte_team_with_most_gold_medals AS
-(
-SELECT  
-    team, 
-    quantity_of_gold_medals
-  FROM cte_medals
-  WHERE quantity_of_gold_medals = ( 
-    SELECT max(quantity_of_gold_medals) 
-    FROM cte_medals
-  )
-)
 SELECT
-	team, 
+    team,
     quantity_of_gold_medals
-FROM cte_team_with_most_gold_medals;
+FROM cte_medals
+WHERE quantity_of_gold_medals = ( 
+    SELECT MAX(quantity_of_gold_medals) FROM cte_medals
+);
