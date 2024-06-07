@@ -3,7 +3,7 @@
 WITH cte_medal_count_per_event AS (
     SELECT
         event,
-    COUNT(medal) AS medal_count
+        COUNT(medal) AS medal_count
     FROM public.olympics_history
     WHERE medal != 'NA'
     GROUP BY event
