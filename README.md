@@ -62,30 +62,44 @@
 
 # Advanced SQL Challenges
 
-| S.N. | Challenge                                                                 | Solution                                 |
-| ---- | ------------------------------------------------------------------------- | ---------------------------------------- |
-| 1    | Find the country with the most athletes.                                  | [Solution 1](/advanced/solution_1.sql)   |
-| 2    | Calculate the average age of athletes per sport.                          | [Solution 2](/advanced/solution_2.sql)   |
-| 3    | List the athletes who participated in the most number of events.          | [Solution 3](/advanced/solution_3.sql)   |
-| 4    | Find the city that hosted the most events.                                | [Solution 4](/advanced/solution_4.sql)   |
-| 5    | Calculate the total number of medals won per sport.                       | [Solution 5](/advanced/solution_5.sql)   |
-| 6    | List the top 5 heaviest athletes.                                         | [Solution 6](/advanced/solution_6.sql)   |
-| 7    | Find the average height and weight of athletes who won a medal.           | [Solution 7](/advanced/solution_7.sql)   |
-| 8    | List the athletes who participated in more than one Olympic season.       | [Solution 8](/advanced/solution_8.sql)   |
-| 9    | Find the most common age among athletes.                                  | [Solution 9](/advanced/solution_9.sql)   |
-| 10   | Calculate the average number of athletes per event.                       | [Solution 10](/advanced/solution_10.sql) |
-| 11   | Find the country with the highest average athlete height.                 | [Solution 11](/advanced/solution_11.sql) |
-| 12   | List the athletes who won medals in multiple events.                      | [Solution 12](/advanced/solution_12.sql) |
-| 13   | Find the number of athletes who participated in the 1920 Summer Olympics. | [Solution 13](/advanced/solution_13.sql) |
-| 14   | Calculate the average age of athletes who participated in Winter sports.  | [Solution 14](/advanced/solution_14.sql) |
-| 15   | List the athletes who participated in the 1900 Summer Olympics.           | [Solution 15](/advanced/solution_15.sql) |
-| 16   | Find the most represented sport per country.                              | [Solution 16](/advanced/solution_16.sql) |
-| 17   | List the athletes with the highest and lowest weight.                     | [Solution 17](/advanced/solution_17.sql) |
-| 18   | Calculate the average number of events per athlete.                       | [Solution 18](/advanced/solution_18.sql) |
-| 19   | Find the athletes who have the same age and height.                       | [Solution 19](/advanced/solution_19.sql) |
-| 20   | List the top 10 tallest athletes.                                         | [Solution 20](/advanced/solution_19.sql) |
-| 21   | Find the number of female athletes who won a medal.                       | [Solution 21](/advanced/solution_21.sql) |
-| 22   | Calculate the percentage of athletes who did not win a medal.             | [Solution 22](/advanced/solution_22.sql) |
-| 23   | List all athletes who participated in more than 2 events.                 | [Solution 23](/advanced/solution_23.sql) |
-| 24   | Find the most common height among athletes.                               | [Solution 24](/advanced/solution_24.sql) |
-| 25 | Calculate the total number of events in which athletes from Denmark participated. | [Solution 25](/advanced/solution_25.sql) |
+| S.N. | Challenge                                                                         | Solution                                 |
+| ---- | --------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1    | Find the country with the most athletes.                                          | [Solution 1](/advanced/solution_1.sql)   |
+| 2    | Calculate the average age of athletes per sport.                                  | [Solution 2](/advanced/solution_2.sql)   |
+| 3    | List the athletes who participated in the most number of events.                  | [Solution 3](/advanced/solution_3.sql)   |
+| 4    | Find the city that hosted the most events.                                        | [Solution 4](/advanced/solution_4.sql)   |
+| 5    | Calculate the total number of medals won per sport.                               | [Solution 5](/advanced/solution_5.sql)   |
+| 6    | List the top 5 heaviest athletes.                                                 | [Solution 6](/advanced/solution_6.sql)   |
+| 7    | Find the average height and weight of athletes who won a medal.                   | [Solution 7](/advanced/solution_7.sql)   |
+| 8    | List the athletes who participated in more than one Olympic season.               | [Solution 8](/advanced/solution_8.sql)   |
+| 9    | Find the most common age among athletes.                                          | [Solution 9](/advanced/solution_9.sql)   |
+| 10   | Calculate the average number of athletes per event.                               | [Solution 10](/advanced/solution_10.sql) |
+| 11   | Find the country with the highest average athlete height.                         | [Solution 11](/advanced/solution_11.sql) |
+| 12   | List the athletes who won medals in multiple events.                              | [Solution 12](/advanced/solution_12.sql) |
+| 13   | Find the number of athletes who participated in the 1920 Summer Olympics.         | [Solution 13](/advanced/solution_13.sql) |
+| 14   | Calculate the average age of athletes who participated in Winter sports.          | [Solution 14](/advanced/solution_14.sql) |
+| 15   | List the athletes who participated in the 1900 Summer Olympics.                   | [Solution 15](/advanced/solution_15.sql) |
+| 16   | Find the most represented sport per country.                                      | [Solution 16](/advanced/solution_16.sql) |
+| 17   | List the athletes with the highest and lowest weight.                             | [Solution 17](/advanced/solution_17.sql) |
+| 18   | Calculate the average number of events per athlete.                               | [Solution 18](/advanced/solution_18.sql) |
+| 19   | Find the athletes who have the same age and height.                               | [Solution 19](/advanced/solution_19.sql) |
+| 20   | List the top 10 tallest athletes.                                                 | [Solution 20](/advanced/solution_19.sql) |
+| 21   | Find the number of female athletes who won a medal.                               | [Solution 21](/advanced/solution_21.sql) |
+| 22   | Calculate the percentage of athletes who did not win a medal.                     | [Solution 22](/advanced/solution_22.sql) |
+| 23   | List all athletes who participated in more than 2 events.                         | [Solution 23](/advanced/solution_23.sql) |
+| 24   | Find the most common height among athletes.                                       | [Solution 24](/advanced/solution_24.sql) |
+| 25   | Calculate the total number of events in which athletes from Denmark participated. | [Solution 25](/advanced/solution_25.sql) |
+
+# Difficult SQL Challenges
+
+| S.N. | Challenge                                                                     | Solution                                |
+| ---- | ----------------------------------------------------------------------------- | --------------------------------------- |
+| 1    | Find the athlete who has the highest total participation in events.           | [Solution 1](/difficult/solution_1.sql) |
+| 2    | Calculate the average height and weight of athletes per country.              | [Solution 2](/difficult/solution_2.sql) |
+| 3    | List the athletes who participated in every Olympic season from 1988 to 1994. | [Solution 3](/difficult/solution_3.sql) |
+| 4    | Find the country with the most gold medals.                                   | [Solution 4](/difficult/solution_4.sql) |
+| 5    | Calculate the average number of medals won per event.                         | [Solution 5](/difficult/solution_5.sql) |
+| 6    | List the athletes who have the same name but different ages.                  | [Solution 6](/difficult/solution_6.sql) |
+| 7    | Find the event with the most athletes participating.                          | [Solution 7](/difficult/solution_7.sql) |
+| 8    | Calculate the average age of athletes who participated in multiple events.    | [Solution 8](/difficult/solution_8.sql) |
+| 9    | List the athletes with the same height but different weights.          | [Solution 9](/difficult/solution_9.sql) |
