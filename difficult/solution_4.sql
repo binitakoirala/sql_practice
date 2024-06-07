@@ -1,8 +1,8 @@
 -- 
 -- Find the country with the most gold medals.
-  WITH cte_medals AS (
-    SELECT 
-        team, 
+WITH cte_medals AS (
+    SELECT
+        team,
         COUNT(medal) AS quantity_of_gold_medals
     FROM public.olympics_history
     WHERE medal = 'Gold' AND medal != 'NA'
