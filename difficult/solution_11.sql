@@ -1,17 +1,19 @@
 -- 
 -- Calculate the percentage of athletes from each country.
-WITH cte_total_athlete_count AS (
-    SELECT DISTINCT
-        COUNT(name) AS athlete_name_count
+WITH cte_total_count AS (
+    SELECT
+        COUNT(DISTINCT name) AS total_athletes
     FROM public.olympics_history
 ),
-cte_country_count AS (
+cte_country_athlete_count AS (
     SELECT
-        COUNT(team) AS team_count
+        team,
+        COUNT(DISTINCT name) AS athlete_count
     FROM public.olympics_history
     GROUP BY team
 )
 SELECT
-    ROUND((cc.team_count * 100.0 / tac.athlete_name_count), 2) AS athlete_percentage_for_each_country
-FROM cte_total_athlete_count tac, cte_country_count cc
-ORDER BY athlete_percentage_for_each_country DESC;
+    ccac.team,
+    ROUND((ccac.athlete_count * 100.0 / ctc.total_athletes), 2) AS athlete_percentage
+FROM cte_country_athlete_count ccac, cte_total_count ctc
+ORDER BY athlete_percentage DESC;

@@ -2,7 +2,6 @@
 -- Find the most common age and height combination among athletes.
 WITH cte_common_age_height_combination AS (
     SELECT
-        COUNT(DISTINCT name),
         age,
         height,
         RANK() OVER (ORDER BY COUNT(DISTINCT name) DESC) AS rank

@@ -3,8 +3,8 @@
 WITH cte_athletes AS (
     SELECT DISTINCT
         name,
-    CAST(weight AS FLOAT) AS weight,
-    CAST(height AS FLOAT) AS height
+        CAST(weight AS FLOAT) AS weight,
+        CAST(height AS FLOAT) AS height
     FROM public.olympics_history
     WHERE weight != 'NA' AND height != 'NA'
 )

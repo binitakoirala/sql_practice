@@ -1,6 +1,7 @@
 -- 
 -- Calculate the average height and weight of athletes per event.
 SELECT
+    event,
     AVG(CAST(height AS FLOAT)) AS avg_height,
     AVG(CAST(weight AS FLOAT)) AS avg_weight
 FROM public.olympics_history
