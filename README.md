@@ -92,24 +92,30 @@
 
 # Difficult SQL Challenges
 
-| S.N. | Challenge                                                                         | Solution                                  |
-| ---- | --------------------------------------------------------------------------------- | ----------------------------------------- |
-| 1    | Find the athlete who has the highest total participation in events.               | [Solution 1](/difficult/solution_1.sql)   |
-| 2    | Calculate the average height and weight of athletes per country.                  | [Solution 2](/difficult/solution_2.sql)   |
-| 3    | List the athletes who participated in every Olympic season from 1988 to 1994.     | [Solution 3](/difficult/solution_3.sql)   |
-| 4    | Find the country with the most gold medals.                                       | [Solution 4](/difficult/solution_4.sql)   |
-| 5    | Calculate the average number of medals won per event.                             | [Solution 5](/difficult/solution_5.sql)   |
-| 6    | List the athletes who have the same name but different ages.                      | [Solution 6](/difficult/solution_6.sql)   |
-| 7    | Find the event with the most athletes participating.                              | [Solution 7](/difficult/solution_7.sql)   |
-| 8    | Calculate the average age of athletes who participated in multiple events.        | [Solution 8](/difficult/solution_8.sql)   |
-| 9    | List the athletes with the same height but different weights.                     | [Solution 9](/difficult/solution_9.sql)   |
-| 10   | Find the athletes who won medals in both Summer and Winter Olympics.              | [Solution 10](/difficult/solution_10.sql) |
-| 11   | Calculate the percentage of athletes from each country.                           | [Solution 11](/difficult/solution_11.sql) |
-| 12   | Find the country with the highest average age of athletes.                        | [Solution 12](/difficult/solution_12.sql) |
-| 13   | List the athletes who have participated in events for more than one country.      | [Solution 13](/difficult/solution_13.sql) |
-| 14   | Calculate the average height and weight of athletes per event.                    | [Solution 14](/difficult/solution_14.sql) |
-| 15   | Find the most common age and height combination among athletes.                   | [Solution 15](/difficult/solution_15.sql) |
-| 16   | List the athletes who participated in the most events in a single Olympic season. | [Solution 16](/difficult/solution_16.sql) |
-| 17   | Find the total number of athletes who won at least one medal.                     | [Solution 17](/difficult/solution_17.sql) |
-| 18   | Calculate the average weight of athletes per sport.                               | [Solution 18](/difficult/solution_18.sql) |
-| 19   | List the athletes who have the same weight but different heights.                 | [Solution 19](/difficult/solution_19.sql) |
+| S.N. | Challenge                                                                            | Solution                                  |
+| ---- | ------------------------------------------------------------------------------------ | ----------------------------------------- |
+| 1    | Find the athlete who has the highest total participation in events.                  | [Solution 1](/difficult/solution_1.sql)   |
+| 2    | Calculate the average height and weight of athletes per country.                     | [Solution 2](/difficult/solution_2.sql)   |
+| 3    | List the athletes who participated in every Olympic season from 1988 to 1994.        | [Solution 3](/difficult/solution_3.sql)   |
+| 4    | Find the country with the most gold medals.                                          | [Solution 4](/difficult/solution_4.sql)   |
+| 5    | Calculate the average number of medals won per event.                                | [Solution 5](/difficult/solution_5.sql)   |
+| 6    | List the athletes who have the same name but different ages.                         | [Solution 6](/difficult/solution_6.sql)   |
+| 7    | Find the event with the most athletes participating.                                 | [Solution 7](/difficult/solution_7.sql)   |
+| 8    | Calculate the average age of athletes who participated in multiple events.           | [Solution 8](/difficult/solution_8.sql)   |
+| 9    | List the athletes with the same height but different weights.                        | [Solution 9](/difficult/solution_9.sql)   |
+| 10   | Find the athletes who won medals in both Summer and Winter Olympics.                 | [Solution 10](/difficult/solution_10.sql) |
+| 11   | Calculate the percentage of athletes from each country.                              | [Solution 11](/difficult/solution_11.sql) |
+| 12   | Find the country with the highest average age of athletes.                           | [Solution 12](/difficult/solution_12.sql) |
+| 13   | List the athletes who have participated in events for more than one country.         | [Solution 13](/difficult/solution_13.sql) |
+| 14   | Calculate the average height and weight of athletes per event.                       | [Solution 14](/difficult/solution_14.sql) |
+| 15   | Find the most common age and height combination among athletes.                      | [Solution 15](/difficult/solution_15.sql) |
+| 16   | List the athletes who participated in the most events in a single Olympic season.    | [Solution 16](/difficult/solution_16.sql) |
+| 17   | Find the total number of athletes who won at least one medal.                        | [Solution 17](/difficult/solution_17.sql) |
+| 18   | Calculate the average weight of athletes per sport.                                  | [Solution 18](/difficult/solution_18.sql) |
+| 19   | List the athletes who have the same weight but different heights.                    | [Solution 19](/difficult/solution_19.sql) |
+| 20   | Find the most common event among medal-winning athletes.                             | [Solution 20](/difficult/solution_20.sql) |
+| 21   | Calculate the percentage of medal-winning athletes per country.                      | [Solution 21](/difficult/solution_21.sql) |
+| 22   | List the top 10 oldest athletes.                                                     | [Solution 22](/difficult/solution_22.sql) |
+| 23   | Find the athletes who participated in the most different sports.                     | [Solution 23](/difficult/solution_23.sql) |
+| 24   | Calculate the average number of medals per athlete per country.                      | [Solution 24](/difficult/solution_24.sql) |
+| 25   | List the athletes who participated in events held in both Barcelona and Lillehammer. | [Solution 25](/difficult/solution_25.sql) |
